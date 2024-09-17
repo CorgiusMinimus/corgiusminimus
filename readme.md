@@ -5,7 +5,7 @@
 ---
 
 <h2>🔧 Frameworks, Languages, and Tools</h2>
-<center><img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,github,html,js,md,nextjs,nodejs,npm,postman,react,tailwind,ts,ubuntu,vscode,windows,&perline=6"></center>
+<center><img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,github,html,js,md,nextjs,nodejs,npm,postman,react,tailwind,ts,ubuntu,vscode,windows,&perline=10"></center>
 
 <h2>⚡Fun Facts</h2>
 <ul>
